@@ -4,8 +4,8 @@ while True:
     if operasi == 0:
         break
 
-    a = float(input("masukan angka pertama"))
-    b = float(input("masukan angka kedua"))
+    a = float(input("masukan angka pertama : "))
+    b = float(input("masukan angka kedua : "))
 
     match operasi:
         case 1 : print(f"Hasil dari penjumlahan kamu adalah : {a + b}")
