@@ -1,1 +1,1 @@
-# belajar-python-membuat-CLI-dan-Tebak-angka
+Belajar python dari code code sederhana.
